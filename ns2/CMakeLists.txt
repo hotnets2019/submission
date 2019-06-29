@@ -7,7 +7,7 @@ add_compile_definitions(HAVE_ARPA_INET_H HAVE_STL)
 add_compile_definitions("RANDOM_RETURN_TYPE=long int")
 
 string(TOLOWER ${CMAKE_BUILD_TYPE} BUILD_TYPE_SUFFIX)
-include("../../delay_transport/cmake-build-${BUILD_TYPE_SUFFIX}/delay-transport-exports.cmake")
+include("../delay_transport/cmake-build-${BUILD_TYPE_SUFFIX}/delay-transport-exports.cmake")
 
 include(CheckTypeSize)
 include(CheckCXXSymbolExists)
