@@ -1,0 +1,684 @@
+STATS
+== group 1 ==
+new messages: 88
+successful (snd) deliveries: 87 (in time: 87)
+successful (rcv) deliveries: 2
+packets sent: 1907
+drop count: 1
+median retransmission idx: 0
+expiration distr: [0 23 32 35 35 42 45 59 86 933 ] (3)
+== group 2 ==
+new messages: 42
+successful (snd) deliveries: 12 (in time: 12)
+successful (rcv) deliveries: 1
+packets sent: 19370
+drop count: 200
+median retransmission idx: 0
+expiration distr: [18712 1272 0 0 0 0 0 0 0 0 ] (0)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 21277
+avg expiration time 1.2e-06
+drop median msg size: 3740520
+drop median slack: 0.000576174
+drop count: 201 (retransmissions: 0)
+hop idx = 1; count: 19
+hop idx = 3; count: 182
+hop idx = 1; 99th perc expired cnt: 1
+hop idx = 3; 99th perc expired cnt: 61
+===========
+STATS
+== group 1 ==
+new messages: 87
+successful (snd) deliveries: 87 (in time: 82)
+successful (rcv) deliveries: 2
+packets sent: 2145
+drop count: 14
+median retransmission idx: 0
+expiration distr: [0 57 32 38 37 46 46 58 84 1012 ] (82)
+== group 2 ==
+new messages: 37
+successful (snd) deliveries: 25 (in time: 25)
+successful (rcv) deliveries: 1
+packets sent: 31945
+drop count: 360
+median retransmission idx: 0
+expiration distr: [21451 8058 3089 0 0 0 0 0 0 0 ] (0)
+== group 3 ==
+new messages: 8
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 6848
+drop count: 108
+median retransmission idx: 0
+expiration distr: [6848 0 0 0 0 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 40938
+avg expiration time 1.00061e-06
+drop median msg size: 8640280
+drop median slack: 0.0005618
+drop count: 482 (retransmissions: 0)
+hop idx = 0; count: 5
+hop idx = 1; count: 161
+hop idx = 3; count: 316
+hop idx = 0; 99th perc expired cnt: 2
+hop idx = 1; 99th perc expired cnt: 66
+hop idx = 3; 99th perc expired cnt: 47
+===========
+STATS
+== group 1 ==
+new messages: 79
+successful (snd) deliveries: 79 (in time: 75)
+successful (rcv) deliveries: 2
+packets sent: 1635
+drop count: 31
+median retransmission idx: 0
+expiration distr: [0 53 18 26 24 27 32 40 56 677 ] (152)
+== group 2 ==
+new messages: 39
+successful (snd) deliveries: 23 (in time: 23)
+successful (rcv) deliveries: 0
+packets sent: 36543
+drop count: 116
+median retransmission idx: 0
+expiration distr: [20647 9220 5894 1312 0 0 0 0 0 0 ] (0)
+== group 3 ==
+new messages: 6
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 14739
+drop count: 3
+median retransmission idx: 0
+expiration distr: [14562 177 0 0 0 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 52917
+avg expiration time 1.08661e-06
+drop median msg size: 1836680
+drop median slack: 0.0002986
+drop count: 150 (retransmissions: 0)
+hop idx = 0; count: 55
+hop idx = 1; count: 21
+hop idx = 3; count: 74
+hop idx = 0; 99th perc expired cnt: 12
+hop idx = 1; 99th perc expired cnt: 1
+hop idx = 3; 99th perc expired cnt: 15
+===========
+STATS
+== group 1 ==
+new messages: 83
+successful (snd) deliveries: 82 (in time: 71)
+successful (rcv) deliveries: 6
+packets sent: 2047
+drop count: 72
+median retransmission idx: 0
+expiration distr: [0 89 21 34 33 37 37 56 71 904 ] (232)
+== group 2 ==
+new messages: 48
+successful (snd) deliveries: 18 (in time: 18)
+successful (rcv) deliveries: 2
+packets sent: 52983
+drop count: 753
+median retransmission idx: 0
+expiration distr: [29845 3792 10574 6586 2719 0 0 0 0 0 ] (0)
+== group 3 ==
+new messages: 4
+successful (snd) deliveries: 1 (in time: 1)
+successful (rcv) deliveries: 0
+packets sent: 20805
+drop count: 73
+median retransmission idx: 0
+expiration distr: [16025 4772 8 0 0 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 75835
+avg expiration time 9.64793e-07
+drop median msg size: 4612140
+drop median slack: 0.0005438
+drop count: 898 (retransmissions: 0)
+hop idx = 0; count: 174
+hop idx = 1; count: 105
+hop idx = 3; count: 619
+hop idx = 0; 99th perc expired cnt: 29
+hop idx = 1; 99th perc expired cnt: 11
+hop idx = 3; 99th perc expired cnt: 65
+===========
+STATS
+== group 1 ==
+new messages: 74
+successful (snd) deliveries: 75 (in time: 68)
+successful (rcv) deliveries: 7
+packets sent: 1432
+drop count: 57
+median retransmission idx: 0
+expiration distr: [0 71 14 25 25 23 24 33 50 532 ] (198)
+== group 2 ==
+new messages: 51
+successful (snd) deliveries: 35 (in time: 35)
+successful (rcv) deliveries: 2
+packets sent: 69181
+drop count: 240
+median retransmission idx: 0
+expiration distr: [41444 10467 4762 4734 3456 4541 214 0 0 0 ] (0)
+== group 3 ==
+new messages: 5
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 24494
+drop count: 42
+median retransmission idx: 0
+expiration distr: [13225 6983 4286 0 0 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 95107
+avg expiration time 1.03005e-06
+drop median msg size: 3311280
+drop median slack: 0.00016
+drop count: 339 (retransmissions: 0)
+hop idx = 0; count: 308
+hop idx = 1; count: 31
+hop idx = 0; 99th perc expired cnt: 24
+hop idx = 1; 99th perc expired cnt: 0
+===========
+STATS
+== group 1 ==
+new messages: 63
+successful (snd) deliveries: 63 (in time: 51)
+successful (rcv) deliveries: 5
+packets sent: 1743
+drop count: 166
+median retransmission idx: 0
+expiration distr: [0 166 16 21 18 22 22 31 41 535 ] (492)
+== group 2 ==
+new messages: 62
+successful (snd) deliveries: 32 (in time: 32)
+successful (rcv) deliveries: 2
+packets sent: 88053
+drop count: 592
+median retransmission idx: 0
+expiration distr: [53004 12051 7871 4894 2305 2028 4999 1280 0 0 ] (0)
+== group 3 ==
+new messages: 4
+successful (snd) deliveries: 1 (in time: 1)
+successful (rcv) deliveries: 0
+packets sent: 36996
+drop count: 114
+median retransmission idx: 0
+expiration distr: [19524 4799 11532 1141 0 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 126792
+avg expiration time 7.37514e-07
+drop median msg size: 4915820
+drop median slack: 0.00016
+drop count: 872 (retransmissions: 0)
+hop idx = 0; count: 504
+hop idx = 1; count: 164
+hop idx = 3; count: 204
+hop idx = 0; 99th perc expired cnt: 50
+hop idx = 1; 99th perc expired cnt: 52
+hop idx = 3; 99th perc expired cnt: 64
+===========
+STATS
+== group 1 ==
+new messages: 64
+successful (snd) deliveries: 64 (in time: 47)
+successful (rcv) deliveries: 5
+packets sent: 1464
+drop count: 118
+median retransmission idx: 0
+expiration distr: [0 150 15 18 22 18 19 25 39 398 ] (457)
+== group 2 ==
+new messages: 66
+successful (snd) deliveries: 49 (in time: 49)
+successful (rcv) deliveries: 5
+packets sent: 89609
+drop count: 314
+median retransmission idx: 0
+expiration distr: [47555 14745 7024 7949 4607 2436 1015 4092 489 0 ] (0)
+== group 3 ==
+new messages: 5
+successful (snd) deliveries: 2 (in time: 2)
+successful (rcv) deliveries: 0
+packets sent: 36964
+drop count: 49
+median retransmission idx: 0
+expiration distr: [10720 10059 5922 10261 2 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 128037
+avg expiration time 6.95743e-07
+drop median msg size: 3102500
+drop median slack: 0.00016
+drop count: 481 (retransmissions: 0)
+hop idx = 0; count: 304
+hop idx = 1; count: 121
+hop idx = 3; count: 56
+hop idx = 0; 99th perc expired cnt: 33
+hop idx = 1; 99th perc expired cnt: 15
+hop idx = 3; 99th perc expired cnt: 6
+===========
+STATS
+== group 1 ==
+new messages: 50
+successful (snd) deliveries: 51 (in time: 39)
+successful (rcv) deliveries: 7
+packets sent: 1326
+drop count: 53
+median retransmission idx: 0
+expiration distr: [0 80 14 20 16 21 20 29 40 508 ] (234)
+== group 2 ==
+new messages: 33
+successful (snd) deliveries: 54 (in time: 54)
+successful (rcv) deliveries: 4
+packets sent: 89447
+drop count: 216
+median retransmission idx: 0
+expiration distr: [43356 16641 7653 7909 5059 4875 2069 1740 489 0 ] (0)
+== group 3 ==
+new messages: 2
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 34440
+drop count: 38
+median retransmission idx: 0
+expiration distr: [13542 9298 4860 4705 2035 0 0 0 0 0 ] (0)
+== overall ==
+packets sent: 125213
+avg expiration time 7.32685e-07
+drop median msg size: 6453200
+drop median slack: 0.00016
+drop count: 307 (retransmissions: 0)
+hop idx = 0; count: 180
+hop idx = 1; count: 39
+hop idx = 3; count: 88
+hop idx = 0; 99th perc expired cnt: 17
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 52
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 34 (in time: 34)
+successful (rcv) deliveries: 5
+packets sent: 68030
+drop count: 7
+median retransmission idx: 0
+expiration distr: [3298 13276 8953 8878 7689 5624 8624 5660 4305 1723 ] (0)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 4 (in time: 4)
+successful (rcv) deliveries: 1
+packets sent: 25774
+drop count: 9
+median retransmission idx: 0
+expiration distr: [447 8683 3831 4547 7387 879 0 0 0 0 ] (0)
+== overall ==
+packets sent: 93804
+avg expiration time 1.054e-06
+drop median msg size: 19114320
+drop median slack: 0.00016
+drop count: 16 (retransmissions: 0)
+hop idx = 0; count: 16
+hop idx = 0; 99th perc expired cnt: 1
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 24 (in time: 24)
+successful (rcv) deliveries: 1
+packets sent: 59367
+drop count: 298
+median retransmission idx: 0
+expiration distr: [0 0 2984 6814 8638 10139 7146 9848 5233 3547 ] (4972)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 22476
+drop count: 9
+median retransmission idx: 0
+expiration distr: [46 5391 2394 2292 5651 6737 11 0 0 0 ] (0)
+== overall ==
+packets sent: 81843
+avg expiration time 1.09437e-06
+drop median msg size: 8208120
+drop median slack: 1.25e-05
+drop count: 307 (retransmissions: 0)
+hop idx = 0; count: 126
+hop idx = 1; count: 92
+hop idx = 3; count: 89
+hop idx = 0; 99th perc expired cnt: 58
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 3
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 18 (in time: 13)
+successful (rcv) deliveries: 0
+packets sent: 44587
+drop count: 376
+median retransmission idx: 0
+expiration distr: [0 0 0 2385 7123 5405 5295 2394 7178 5674 ] (9118)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 2 (in time: 2)
+successful (rcv) deliveries: 0
+packets sent: 29611
+drop count: 32
+median retransmission idx: 0
+expiration distr: [15 35 4837 2732 5314 11041 5652 0 0 0 ] (0)
+== overall ==
+packets sent: 74198
+avg expiration time 1.1241e-06
+drop median msg size: 7441620
+drop median slack: 1.25e-05
+drop count: 408 (retransmissions: 0)
+hop idx = 0; count: 120
+hop idx = 1; count: 136
+hop idx = 3; count: 152
+hop idx = 0; 99th perc expired cnt: 59
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 3
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 12 (in time: 6)
+successful (rcv) deliveries: 0
+packets sent: 33996
+drop count: 581
+median retransmission idx: 0
+expiration distr: [0 0 0 0 1249 3228 4853 5781 2073 3131 ] (13546)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 1 (in time: 1)
+successful (rcv) deliveries: 0
+packets sent: 31549
+drop count: 15
+median retransmission idx: 0
+expiration distr: [135 0 1236 7303 2812 11977 6412 1809 0 0 ] (0)
+== overall ==
+packets sent: 65545
+avg expiration time 1.16875e-06
+drop median msg size: 7329200
+drop median slack: 1.25e-05
+drop count: 596 (retransmissions: 0)
+hop idx = 0; count: 7
+hop idx = 1; count: 374
+hop idx = 3; count: 215
+hop idx = 0; 99th perc expired cnt: 3
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 9
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 10 (in time: 7)
+successful (rcv) deliveries: 1
+packets sent: 26151
+drop count: 547
+median retransmission idx: 0
+expiration distr: [0 0 0 0 0 0 350 2513 6467 3228 ] (13581)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 4 (in time: 4)
+successful (rcv) deliveries: 0
+packets sent: 37095
+drop count: 8
+median retransmission idx: 0
+expiration distr: [12 0 0 9256 5331 2894 10838 8718 58 0 ] (0)
+== overall ==
+packets sent: 63246
+avg expiration time 1.09618e-06
+drop median msg size: 7441620
+drop median slack: 1.25e-05
+drop count: 555 (retransmissions: 0)
+hop idx = 0; count: 6
+hop idx = 1; count: 473
+hop idx = 3; count: 76
+hop idx = 0; 99th perc expired cnt: 1
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 2
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 9 (in time: 2)
+successful (rcv) deliveries: 0
+packets sent: 23752
+drop count: 507
+median retransmission idx: 0
+expiration distr: [0 0 0 0 0 0 0 0 1047 4921 ] (17705)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 5 (in time: 5)
+successful (rcv) deliveries: 1
+packets sent: 35928
+drop count: 76
+median retransmission idx: 0
+expiration distr: [79 0 0 75 14781 2858 9551 6910 1753 0 ] (0)
+== overall ==
+packets sent: 59680
+avg expiration time 1.15831e-06
+drop median msg size: 8240240
+drop median slack: 1.25e-05
+drop count: 583 (retransmissions: 0)
+hop idx = 0; count: 1
+hop idx = 1; count: 303
+hop idx = 3; count: 279
+hop idx = 0; 99th perc expired cnt: 0
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 2
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 14 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 22442
+drop count: 581
+median retransmission idx: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 106 ] (22321)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 3 (in time: 3)
+successful (rcv) deliveries: 0
+packets sent: 19030
+drop count: 79
+median retransmission idx: 0
+expiration distr: [15 0 0 0 2194 2072 3781 7996 2085 902 ] (0)
+== overall ==
+packets sent: 41472
+avg expiration time 9.43182e-07
+drop median msg size: 7329200
+drop median slack: 1.25e-05
+drop count: 660 (retransmissions: 0)
+hop idx = 0; count: 120
+hop idx = 1; count: 298
+hop idx = 3; count: 242
+hop idx = 0; 99th perc expired cnt: 58
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 2
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (5)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 9 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 8848
+drop count: 144
+median retransmission idx: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (8848)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 1 (in time: 1)
+successful (rcv) deliveries: 0
+packets sent: 21089
+drop count: 11
+median retransmission idx: 0
+expiration distr: [0 0 0 0 0 2137 5720 4591 4523 4109 ] (4)
+== overall ==
+packets sent: 29937
+avg expiration time 1.2e-06
+drop median msg size: 7329200
+drop median slack: 1.25e-05
+drop count: 155 (retransmissions: 0)
+hop idx = 0; count: 6
+hop idx = 1; count: 113
+hop idx = 3; count: 36
+hop idx = 0; 99th perc expired cnt: 1
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 1
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (46)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 2 (in time: 2)
+successful (rcv) deliveries: 0
+packets sent: 24112
+drop count: 22
+median retransmission idx: 0
+expiration distr: [0 0 0 0 0 0 2530 12712 2852 109 ] (5863)
+== overall ==
+packets sent: 24112
+avg expiration time 9.664e-07
+drop median msg size: 24126500
+drop median slack: 1.25e-05
+drop count: 22 (retransmissions: 0)
+hop idx = 1; count: 17
+hop idx = 3; count: 5
+hop idx = 1; 99th perc expired cnt: 0
+hop idx = 3; 99th perc expired cnt: 0
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 3 (in time: 2)
+successful (rcv) deliveries: 0
+packets sent: 20388
+drop count: 88
+median retransmission idx: 0
+expiration distr: [0 0 0 0 0 0 0 5215 11007 0 ] (4166)
+== overall ==
+packets sent: 20388
+avg expiration time -nan
+drop median msg size: 24126500
+drop median slack: 1.25e-05
+drop count: 88 (retransmissions: 0)
+hop idx = 1; count: 88
+hop idx = 1; 99th perc expired cnt: 0
+===========
+STATS
+== group 1 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 2 ==
+new messages: 0
+successful (snd) deliveries: 0 (in time: 0)
+successful (rcv) deliveries: 0
+packets sent: 0
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 0 0 0 ] (0)
+== group 3 ==
+new messages: 0
+successful (snd) deliveries: 4 (in time: 3)
+successful (rcv) deliveries: 0
+packets sent: 16304
+drop count: 0
+expiration distr: [0 0 0 0 0 0 0 1387 6642 5342 ] (2933)
+== overall ==
+packets sent: 16304
+avg expiration time -nan
+drop count: 0 (retransmissions: 0)
+===========
